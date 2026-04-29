@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ab1d4445638004aad7b5c17cd389f9, type: 3}
+  m_Name: PersonDB
+  m_EditorClassIdentifier: 
+  _persons:
+  - _mesh: {fileID: 919132149155446097, guid: ec4412b97115c294e84e56956638460d, type: 3}
+    _picture: {fileID: 21300000, guid: f60922c9d66488f4e8dbfb67efd321b5, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: 07e0ead082313254287982a29c72f499, type: 3}
+    _picture: {fileID: 21300000, guid: ef07f9864dc22d24f8d85bbd1dda9590, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: 0c7f78d24f9963c4baa8682661cbd955, type: 3}
+    _picture: {fileID: 21300000, guid: fc0e21f10f4171c4e905f986620b1668, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: 3f04302877e74fa4ab6d6e0f4f3badf6, type: 3}
+    _picture: {fileID: 21300000, guid: 3e3b915fc142b3a4f95235bbe2d291cf, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: 0a0b403cf5a547640b6c32629cc26917, type: 3}
+    _picture: {fileID: 21300000, guid: 8f7f1a3630210544080db613ba6f8642, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: 921ab4daf11eb9348a62f5da0c7a1e19, type: 3}
+    _picture: {fileID: 21300000, guid: 28f97a834080d7e48861c016bc424160, type: 3}
+    _gender: 0
+  - _mesh: {fileID: 919132149155446097, guid: c63d0e48e8c0ef64cac9c4b13ebdaf17, type: 3}
+    _picture: {fileID: 21300000, guid: 46c7f9d1a484a244bbbff671b145ed67, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: 7b47e1f06f4fe7145ab8d8da0a1e611b, type: 3}
+    _picture: {fileID: 21300000, guid: 19b013387b70f4c49a88eaf31afda837, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: cdbe9ba410746f84199fb21a4b3a6a74, type: 3}
+    _picture: {fileID: 21300000, guid: 0fc3d00b1db53bd46a3bc4047dcd014d, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: dd11c37c6848e5945a97a79b48f0e8d5, type: 3}
+    _picture: {fileID: 21300000, guid: d6673d0cbbbe8974a9c51b3bd902d1da, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: 370fb31bf9015794ea0acd996f9758c1, type: 3}
+    _picture: {fileID: 21300000, guid: d0c4ff28a89fd5846a3a8af77360578f, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: a1534572617c65a4c9ae6fa70a66a0dd, type: 3}
+    _picture: {fileID: 21300000, guid: 28a5f44417013c54a961cdc3353f3ed7, type: 3}
+    _gender: 1
+  - _mesh: {fileID: 919132149155446097, guid: e3b86883cb4420844bbc08c47a289cb6, type: 3}
+    _picture: {fileID: 21300000, guid: 5fe96cfad6396b641b983d183b4fcacc, type: 3}
+    _gender: 1

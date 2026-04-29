@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3802240201164362691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3802240201164362689}
+  - component: {fileID: 3802240201164362688}
+  m_Layer: 0
+  m_Name: '[PedestrianFactory]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3802240201164362689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3802240201164362691}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3802240201164362688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3802240201164362691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78aba808cb7a24244932f8b49ef1e7c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _notGuiltyDescriptions: {fileID: 11400000, guid: f25cd0e38165c7541af8e215390e2eb3, type: 2}
+  _arrestWorthyDescriptions: {fileID: 11400000, guid: 5eca0a96f6a828c42bfad80e84835a5e, type: 2}
+  _shockWorthyDescriptions: {fileID: 11400000, guid: f2d39f595eee6d546b312f9452d6aba1, type: 2}
+  _namesDB: {fileID: 11400000, guid: 54826237bfd82914da5326491c1d7d9c, type: 2}
+  _preSpawnedPedestrians:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _streetDutyData: {fileID: 11400000, guid: 8a9d57c7d6c0fa545a71b2a1bf97e745, type: 2}

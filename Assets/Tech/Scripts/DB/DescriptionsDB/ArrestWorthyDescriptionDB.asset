@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2ce82c5ec78db3419038da1a092c857, type: 3}
+  m_Name: ArrestWorthyDescriptionDB
+  m_EditorClassIdentifier: 
+  _crimeType: 1
+  _descriptions:
+  - Tried to rob a sex shop
+  - Parks the pig not according to the rules of the road
+  - Painted graffiti on the mayor's car
+  - Stole 1000 liters of beer
+  - Kicked a cat
+  - Kicked a dog
+  - Got into a fight with a postman
+  - "\u0421rashed into an ambulance"
+  - Tore off the tail of a lizard
+  - Sent Superman to the hospital

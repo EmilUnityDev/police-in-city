@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c4156c4c5c138244b54b500dcfa70b8, type: 3}
+  m_Name: MD_5_JM_O
+  m_EditorClassIdentifier: 
+  _currentDossierType: 1
+  _currentDossierRightAction: 1
+  _name: 'Josh Martin '
+  _firstTextLine: 'Butcher '
+  _secondTextLine: 'Complaints from neighbors
+
+'
+  _thirdTextLine: Violation of the traffic law!
+  _faceIcon: {fileID: 21300000, guid: 7a912dbd50a2d8f459d9f7b6f32dbe69, type: 3}

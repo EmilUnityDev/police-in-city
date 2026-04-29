@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbef2a6011f80bc4184c2c2c91eadfb8, type: 3}
+  m_Name: Tutorial GameData
+  m_EditorClassIdentifier: 
+  _hasTouchedScreenOnStreetDuty: 0
+  _hasTouchedScreenOnRoadDuty: 0
+  _hasFinishedStreetDutyTutorial: 0
+  _hasFinishedRoadDutyTutorial: 0
+  _streetDutyTutorialIndex: 0
+  _roadDutyTutorialIndex: 6
